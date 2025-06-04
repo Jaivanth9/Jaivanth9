@@ -1,4 +1,4 @@
-![Full Stack Developer Banner](https://www.canva.com/design/DAGpXbRPioo/jLCSbObxpzb0iyZ-Ldtv3g/edit?utm_content=DAGpXbRPioo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Full Stack Developer Banner](cover.jpg)
 
 # 👋 Hello, I'm Jaivanth Koppula
 
