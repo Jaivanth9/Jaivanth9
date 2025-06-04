@@ -1,3 +1,5 @@
+![Full Stack Developer Banner](https://your-image-url.com/banner.jpg)
+
 # 👋 Hello, I'm Jaivanth Koppula
 
 I'm a passionate **MERN stack Developer** with a love for creating web applications that are both functional and beautiful. Welcome to my GitHub profile!
