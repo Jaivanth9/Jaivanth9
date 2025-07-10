@@ -69,6 +69,16 @@
 
 ---
 
+## 🌐 Major Web Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **[NeighborFit](https://github.com/Jaivanth9/NeighborFit)** | Full-stack neighborhood recommender app that matches users with ideal neighborhoods based on lifestyle preferences | React, Node.js, Express, MongoDB |
+| **[RecipeHub – Collaborative Recipe Builder](https://github.com/Jaivanth9/RecipeHub)** | Web app where users can collaboratively build and scale recipes with real-time cooking timers | React, Node.js, Express, MongoDB, Socket.io |
+| **[RBAC Blog Platform](https://github.com/Jaivanth9/RBAC-Blog)** | Role-Based Access Control blog platform with admin/user dashboards and JWT authentication | React, Express, MongoDB, JWT |
+| **[Equipment Rental Platform](https://github.com/Jaivanth9/Equipment-Rental)** | Equipment renting system with SRS-driven development flow, including admin and customer modules | React, Node.js, MongoDB |
+| *More coming soon...* | | |
+
 ## 📫 Reach Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jaivanthkoppula999@gmail.com)
