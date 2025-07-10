@@ -6,14 +6,15 @@
 <h1 align="center">Hi 👋, I'm Jaivanth Koppula</h1>
 
 <p align="center">
-  <strong>A passionate Full-Stack Developer specializing in the MERN stack</strong><br/>
-  I love building robust, scalable, and beautiful web applications.
+  <strong>A passionate Full-Stack Developer & Mobile App Enthusiast</strong><br/>
+  I love building robust, scalable, and beautiful web & mobile applications.
 </p>
 
 ---
 
 ## 🔧 Tech Stack & Tools
 <p align="left">
+  <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -21,45 +22,73 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Currently
 
-- 🔨 Working on full-stack MERN projects
-- 📚 Learning advanced React patterns and scalable backend systems
-- 🤝 Open to collaboration on impactful open-source or freelance projects
+- 🔨 Working on full-stack MERN and React Native projects
+- 📱 Building cross-platform mobile apps using React Native + Expo
+- 🌐 Exploring deployment strategies for mobile and web apps (Firebase, Vercel, Docker)
+- 🤝 Open to collaboration on mobile-first products and open-source tools
 
 ---
 
 ## 💡 Ask Me About
 
-- Web Development (Frontend + Backend)
-- MERN Stack Projects
-- REST APIs and MongoDB Design
-- Problem Solving and Optimization
+- MERN Stack Development  
+- REST APIs and MongoDB Schema Design  
+- Cross-Platform Mobile Apps (React Native)  
+- Android App Design and Publishing  
+- Expo Workflow & Firebase Integration  
+- Debugging, Optimization & Code Scaling
+
+---
+
+## 📱 React Native / Android Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[Recipe Food App](https://github.com/Jaivanth9/Recipe-Food-App)** | A beautifully designed recipe mobile app built with React Native and Expo | React Native, Expo, Tailwind, Firebase |
+| **[Guessing Game App](https://github.com/Jaivanth9/ReactNative-Guessing-Game)** | Simple guessing game to practice component state and UI logic | React Native |
+| *More coming soon...* | | |
 
 ---
 
 ## 📫 Reach Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jaivanthkoppula999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaivanth-koppula)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaivanth-koppula/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white)](https://my-portfolio-nine-sepia-79.vercel.app/)
 
 ---
 
 ## 🧠 Learning & Growth
 
-- 🔍 **Currently Learning**: Next.js, TypeScript, Docker, Tailwind CSS
-- 🎯 **Goals 2025**:
-  - Contribute to 10+ open-source projects
-  - Build 3+ SaaS-like full-stack projects
-  - Crack a top-tier software engineering internship
+- 🔍 **Currently Learning**:
+  - Next.js + TypeScript
+  - Tailwind CSS + Chakra UI
+  - Firebase Cloud Functions
+  - Publishing Android Apps to Google Play
+- 🎯 **Goals for 2025**:
+  - Publish 2+ Android apps to Google Play
+  - Build SaaS & mobile-first products
+  - Contribute to 10+ open-source mobile & web projects
+  - Intern at a top-tier tech company
 
 ---
 
@@ -96,16 +125,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **[NeighborFit](https://github.com/Jaivanth9/NeighborFit)** | A full-stack web app recommending neighborhoods using user preferences and data analysis | MERN, Node.js, Express, React |
-| **[RecipeHub](https://github.com/Jaivanth9/RecipeHub)** | Collaborative recipe builder with real-time collaboration and cooking timers | React, Firebase, Tailwind |
-| **[RBAC Blog Platform](https://github.com/Jaivanth9/RBAC-Blog)** | Role-based blog system with Admin/User access control | React, MongoDB, Express, Node.js |
-
----
-
 ## ⚡ Fun Fact
 
 > I love turning ☕ coffee into code, and bugs into features 😄
@@ -113,4 +132,3 @@
 ---
 
 > *Built with ❤️ by Jaivanth Koppula*
-
